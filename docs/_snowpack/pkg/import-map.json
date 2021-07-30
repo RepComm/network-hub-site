@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@repcomm/exponent-ts": "./@repcomm/exponent-ts.js"
+  }
+}
